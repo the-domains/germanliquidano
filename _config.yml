@@ -2,6 +2,7 @@ name: German Liquidano
 favicon: null
 layout_spectrum: 0.16012898762710392
 typography_spectrum: 0.3096274209674448
+title: null
 cta:
   domain: null
   bucket: null
