@@ -1,0 +1,28 @@
+name: German Liquidano
+favicon: null
+layout_spectrum: 0.16012898762710392
+typography_spectrum: 0.3096274209674448
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.42214259621687233
+  lightness: 0.16840569954365492
+  saturation: 0.29595680511556566
+  rhythmicContrast: 0.9205084247514606
+purpose: []
